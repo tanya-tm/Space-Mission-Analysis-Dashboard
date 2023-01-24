@@ -10,3 +10,5 @@
 5. RVSN USSR launched the maximum number of rockets at 1777.
 6. 21.81 % of rockets launched are active.
 
+✅ Do check out the live interactive dashboard on novyPro - https://www.novypro.com/project/power-bi-53
+
